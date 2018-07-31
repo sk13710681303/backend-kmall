@@ -94,7 +94,7 @@ routes ( app );
 mongoose.Promise = global.Promise;
 
 // 连接MongoDB数据库
-mongoose.connect ( config.localDatabaseConnect );
+mongoose.connect ( config.serverDatabaseConnect );
 
 // MongoDB数据库连接成功
 mongoose.connection.on ( 'connected', () => {
