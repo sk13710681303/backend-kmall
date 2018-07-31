@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/client/src/views/NavHeader.vue">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="185">
-              <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+              <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -209,12 +209,12 @@
       <workItem from="1532427906043" duration="99000" />
       <workItem from="1532440195982" duration="506000" />
       <workItem from="1532442143638" duration="4525000" />
-      <workItem from="1533053996629" duration="1053000" />
+      <workItem from="1533053996629" duration="1169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76205000" />
+    <option name="totallyTimeSpent" value="76321000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="6" />
@@ -531,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/client/src/views/NavHeader.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="15" column="87" lean-forward="false" selection-start-line="15" selection-start-column="87" selection-end-line="15" selection-end-column="87" />
+          <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
           <folding />
         </state>
       </provider>
