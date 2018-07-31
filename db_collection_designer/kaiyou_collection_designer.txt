@@ -1,0 +1,149 @@
+// 商品列表页
+GoodsList: {
+   "_id":{
+       "$oid":"58c284b13a1bb9aa7033801b"
+   },
+   "productId": { type: String },
+   "productName": { type: String },
+   "productTitle": { type: String },
+   "productPrice": { type: Number },
+   "productNumber": { type: Number },
+   "isChecked": { type: Boolean },
+   "productMonthlySales": { type: Number },
+   "productSkuInfo": [{
+       "productSkuId": { type: String },
+       "productTitle": { type: String },
+       "productSubTitle": { type: String },
+       "productBallImg": { type: String },
+       "productBigImg": { type: String },
+       "productSmallImg": { type: String },
+       "productPrice": { type: Number },
+       "productNumber": { type: Number },
+       "isChecked": { type: Boolean },
+       "productMonthlySales": { type: Number },
+       "productLimitNum": { type: Number },
+       "productSpecJson": {
+           "productImage": { type: String },
+           "productShowName": { type: String }
+       }
+   }]
+}
+
+// 商品详情页
+GoodsDetails: {
+    "_id":{
+       "$oid":"58c284b13a1bb9aa7033801y"
+   },
+   "productSkuId": { type: String },
+   "productTitle": { type: String },
+   "productSubTitle": { type: String },
+   "productBallImg": { type: String },
+   "productBigImg": { type: String },
+   "productSmallImg": { type: String },
+   "productPrice": { type: Number },
+   "productMonthlySales": { type: Number },
+   "productLimitNum": { type: Number },
+   "productSpecJson": {
+       "productImage": { type: String },
+       "productShowName": { type: String }
+   },
+   "productLittleImg": [{ type: String }],
+   "productLargeImg": [{ type: String }],
+   "productSkuColorList": [{
+       "productSkuId": { type: String },
+       "productImage": { type: String },
+       "productLimitNum": { type: Number },
+       "productShowName": { type: String }
+   }]
+}
+
+// 我的用户表
+Users: {
+    "_id": {
+        "$oid": "58c41d5d3eddd93e9ab5b078"
+    },
+    "userId": { type: String },
+    "userName": { type: String },
+    "userPwd": { type: String },
+    "orderList": [{
+        "orderId": { type: String },
+        "orderTotal": { type: Number },
+        "addressInfo": {
+            "receiveName": { type: String },
+            "receivePhone": { type: String },
+            "receiveAreaCode": { type: String },
+            "receiveSeatNumber": { type: String },
+            "receiveProvinceId": { type: Number },
+            "receiveProvince": { type: String },
+            "receiveCityId": { type: Number },
+            "receiveCity": { type: String },
+            "receiveCountyId": { type: Number },
+            "receiveCounty": { type: String },
+            "receiveDetailsAddress": { type: String },
+            "receiveDefaultSelectStatus": { type: Boolean }
+        },
+        "goodsList": [{
+                "_id":{
+                   "$oid":"58c284b13a1bb9aa7033801b"
+               },
+               "productId": { type: String },
+               "productName": { type: String },
+               "productTitle": { type: String },
+               "productPrice": { type: Number },
+               "productNumber": { type: Number },
+               "isChecked": { type: Boolean },
+               "productMonthlySales": { type: Number },
+               "productSkuInfo": [{
+                       "productSkuId": { type: String },
+                       "productTitle": { type: String },
+                       "productSubTitle": { type: String },
+                       "productBallImg": { type: String },
+                       "productBigImg": { type: String },
+                       "productSmallImg": { type: String },
+                       "productPrice": { type: Number },
+                       "productNumber": { type: Number },
+                       "isChecked": { type: Boolean },
+                       "productMonthlySales": { type: Number },
+                       "productLimitNum": { type: Number },
+                       "productSpecJson": {
+                           "productImage": { type: String },
+                           "productShowName": { type: String }
+                       }
+               }]
+        }],
+        "orderStatus": { type: String },
+        "createDate": { type: Date }
+    }],
+    "cartList": [{
+        "productSkuId": { type: String },
+        "productTitle": { type: String },
+        "productSubTitle": { type: String },
+        "productBallImg": { type: String },
+        "productBigImg": { type: String },
+        "productSmallImg": { type: String },
+        "productPrice": { type: Number },
+        "productNumber": { type: Number },
+        "isChecked": { type: Boolean },
+        "productMonthlySales": { type: Number },
+        "productLimitNum": { type: Number },
+        "productSpecJson": {
+            "productImage": { type: String },
+            "productShowName": { type: String }
+        }
+    }],
+    "addressList": [{
+        "receiveName": { type: String },
+        "receivePhone": { type: String },
+        "receiveAreaCode": { type: String },
+        "receiveSeatNumber": { type: String },
+        "receiveProvinceId": { type: Number },
+        "receiveProvince": { type: String },
+        "receiveCityId": { type: Number },
+        "receiveCity": { type: String },
+        "receiveCountyId": { type: Number },
+        "receiveCounty": { type: String },
+        "receiveDetailsAddress": { type: String },
+        "receiveDefaultSelectStatus": { type: Boolean }
+    }]
+}
+

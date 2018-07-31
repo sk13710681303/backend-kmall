@@ -1,0 +1,3069 @@
+{
+    "status": "0",
+    "msg": "",
+    "goodsDetailsDataResult": [
+        {
+            "productSkuId": "1000001199",
+            "productTitle": "Huawei华为畅享7S-1",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-1",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 199,
+            "productMonthlySales": 199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001200",
+            "productTitle": "Huawei华为畅享7S-1",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-1",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 199,
+            "productMonthlySales": 199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001201",
+            "productTitle": "Huawei华为畅享7S-1",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-1",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 199,
+            "productMonthlySales": 199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001202",
+            "productTitle": "Huawei华为畅享7S-1",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-1",
+            "productBallImg": "/static/images/pink_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_pink_small_ico_63x80.png",
+            "productPrice": 199,
+            "productMonthlySales": 199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "pink_default_ico.png",
+                "productShowName": "粉色"
+            },
+            "productLittleImg": [
+                "pink/shoppingDetails_small_ico1.png",
+                "pink/shoppingDetails_small_ico2.png",
+                "pink/shoppingDetails_small_ico3.png",
+                "pink/shoppingDetails_small_ico4.png",
+                "pink/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "pink/shoppingDetails_large_ico1.png",
+                "pink/shoppingDetails_large_ico2.png",
+                "pink/shoppingDetails_large_ico3.png",
+                "pink/shoppingDetails_large_ico4.png",
+                "pink/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001299",
+            "productTitle": "Huawei华为畅享7S-2",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-2",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 299,
+            "productMonthlySales": 299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001300",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001301",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001300",
+            "productTitle": "Huawei华为畅享7S-2",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-2",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 299,
+            "productMonthlySales": 299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001300",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001301",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001301",
+            "productTitle": "Huawei华为畅享7S-2",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-2",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 299,
+            "productMonthlySales": 299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001300",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001301",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001399",
+            "productTitle": "Huawei华为畅享7S-3",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-3",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 399,
+            "productMonthlySales": 399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001400",
+            "productTitle": "Huawei华为畅享7S-3",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-3",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 399,
+            "productMonthlySales": 399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001499",
+            "productTitle": "Huawei华为畅享7S-4",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-4",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 499,
+            "productMonthlySales": 499,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001499",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001599",
+            "productTitle": "Huawei华为畅享7S-5",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-5",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 599,
+            "productMonthlySales": 599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001601",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001602",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001600",
+            "productTitle": "Huawei华为畅享7S-5",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-5",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 599,
+            "productMonthlySales": 599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001601",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001602",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001601",
+            "productTitle": "Huawei华为畅享7S-5",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-5",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 599,
+            "productMonthlySales": 599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001601",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001602",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001602",
+            "productTitle": "Huawei华为畅享7S-5",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-5",
+            "productBallImg": "/static/images/pink_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_pink_small_ico_63x80.png",
+            "productPrice": 599,
+            "productMonthlySales": 599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "pink_default_ico.png",
+                "productShowName": "粉色"
+            },
+            "productLittleImg": [
+                "pink/shoppingDetails_small_ico1.png",
+                "pink/shoppingDetails_small_ico2.png",
+                "pink/shoppingDetails_small_ico3.png",
+                "pink/shoppingDetails_small_ico4.png",
+                "pink/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "pink/shoppingDetails_large_ico1.png",
+                "pink/shoppingDetails_large_ico2.png",
+                "pink/shoppingDetails_large_ico3.png",
+                "pink/shoppingDetails_large_ico4.png",
+                "pink/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001601",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000001602",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001699",
+            "productTitle": "Huawei华为畅享7S-6",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-6",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 699,
+            "productMonthlySales": 699,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001699",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001700",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001701",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001700",
+            "productTitle": "Huawei华为畅享7S-6",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-6",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 699,
+            "productMonthlySales": 699,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001699",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001700",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001701",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001701",
+            "productTitle": "Huawei华为畅享7S-6",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-6",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 699,
+            "productMonthlySales": 699,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001699",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001700",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000001701",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001799",
+            "productTitle": "Huawei华为畅享7S-7",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-7",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 799,
+            "productMonthlySales": 799,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001799",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001800",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001800",
+            "productTitle": "Huawei华为畅享7S-7",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-7",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 799,
+            "productMonthlySales": 799,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001799",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000001800",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001899",
+            "productTitle": "Huawei华为畅享7S-8",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-8",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 899,
+            "productMonthlySales": 899,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001899",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000001999",
+            "productTitle": "Huawei华为畅享7S-9",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-9",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 999,
+            "productMonthlySales": 999,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001999",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000002000",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000002001",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000002002",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000002000",
+            "productTitle": "Huawei华为畅享7S-9",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-9",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 999,
+            "productMonthlySales": 999,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001999",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000002000",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000002001",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000002002",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000002001",
+            "productTitle": "Huawei华为畅享7S-9",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-9",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 999,
+            "productMonthlySales": 999,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001999",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000002000",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000002001",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000002002",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "1000002002",
+            "productTitle": "Huawei华为畅享7S-9",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-9",
+            "productBallImg": "/static/images/pink_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_pink_small_ico_63x80.png",
+            "productPrice": 999,
+            "productMonthlySales": 999,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "pink_default_ico.png",
+                "productShowName": "粉色"
+            },
+            "productLittleImg": [
+                "pink/shoppingDetails_small_ico1.png",
+                "pink/shoppingDetails_small_ico2.png",
+                "pink/shoppingDetails_small_ico3.png",
+                "pink/shoppingDetails_small_ico4.png",
+                "pink/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "pink/shoppingDetails_large_ico1.png",
+                "pink/shoppingDetails_large_ico2.png",
+                "pink/shoppingDetails_large_ico3.png",
+                "pink/shoppingDetails_large_ico4.png",
+                "pink/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "1000001999",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "1000002000",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "1000002001",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "1000002002",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011099",
+            "productTitle": "Huawei华为畅享7S-10",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-10",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1099,
+            "productMonthlySales": 1099,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011099",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011100",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011101",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011100",
+            "productTitle": "Huawei华为畅享7S-10",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-10",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1099,
+            "productMonthlySales": 1099,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011099",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011100",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011101",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011101",
+            "productTitle": "Huawei华为畅享7S-10",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-10",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 1099,
+            "productMonthlySales": 1099,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011099",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011100",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011101",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011199",
+            "productTitle": "Huawei华为畅享7S-11",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-11",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1199,
+            "productMonthlySales": 1199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011200",
+            "productTitle": "Huawei华为畅享7S-11",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-11",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1199,
+            "productMonthlySales": 1199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011299",
+            "productTitle": "Huawei华为畅享7S-12",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-12",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1299,
+            "productMonthlySales": 1299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011399",
+            "productTitle": "Huawei华为畅享7S-13",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-13",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1399,
+            "productMonthlySales": 1399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011401",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011402",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011400",
+            "productTitle": "Huawei华为畅享7S-13",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-13",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1399,
+            "productMonthlySales": 1399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011401",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011402",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011401",
+            "productTitle": "Huawei华为畅享7S-13",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-13",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 1399,
+            "productMonthlySales": 1399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011401",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011402",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011402",
+            "productTitle": "Huawei华为畅享7S-13",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-13",
+            "productBallImg": "/static/images/pink_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_pink_small_ico_63x80.png",
+            "productPrice": 1399,
+            "productMonthlySales": 1399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "pink_default_ico.png",
+                "productShowName": "粉色"
+            },
+            "productLittleImg": [
+                "pink/shoppingDetails_small_ico1.png",
+                "pink/shoppingDetails_small_ico2.png",
+                "pink/shoppingDetails_small_ico3.png",
+                "pink/shoppingDetails_small_ico4.png",
+                "pink/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "pink/shoppingDetails_large_ico1.png",
+                "pink/shoppingDetails_large_ico2.png",
+                "pink/shoppingDetails_large_ico3.png",
+                "pink/shoppingDetails_large_ico4.png",
+                "pink/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011401",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011402",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011499",
+            "productTitle": "Huawei华为畅享7S-14",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-14",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1499,
+            "productMonthlySales": 1499,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011499",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011500",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011501",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011500",
+            "productTitle": "Huawei华为畅享7S-14",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-14",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1499,
+            "productMonthlySales": 1499,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011499",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011500",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011501",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011501",
+            "productTitle": "Huawei华为畅享7S-14",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-14",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 1499,
+            "productMonthlySales": 1499,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011499",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011500",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011501",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011599",
+            "productTitle": "Huawei华为畅享7S-15",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-15",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1599,
+            "productMonthlySales": 1599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011600",
+            "productTitle": "Huawei华为畅享7S-15",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-15",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1599,
+            "productMonthlySales": 1599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011699",
+            "productTitle": "Huawei华为畅享7S-16",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-16",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1699,
+            "productMonthlySales": 1699,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011699",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011799",
+            "productTitle": "Huawei华为畅享7S-17",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-17",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1799,
+            "productMonthlySales": 1799,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011799",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011800",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011801",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011802",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011800",
+            "productTitle": "Huawei华为畅享7S-17",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-17",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1799,
+            "productMonthlySales": 1799,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011799",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011800",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011801",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011802",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011801",
+            "productTitle": "Huawei华为畅享7S-17",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-17",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 1799,
+            "productMonthlySales": 1799,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011799",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011800",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011801",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011802",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011802",
+            "productTitle": "Huawei华为畅享7S-17",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-17",
+            "productBallImg": "/static/images/pink_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_pink_small_ico_63x80.png",
+            "productPrice": 1799,
+            "productMonthlySales": 1799,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "pink_default_ico.png",
+                "productShowName": "粉色"
+            },
+            "productLittleImg": [
+                "pink/shoppingDetails_small_ico1.png",
+                "pink/shoppingDetails_small_ico2.png",
+                "pink/shoppingDetails_small_ico3.png",
+                "pink/shoppingDetails_small_ico4.png",
+                "pink/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "pink/shoppingDetails_large_ico1.png",
+                "pink/shoppingDetails_large_ico2.png",
+                "pink/shoppingDetails_large_ico3.png",
+                "pink/shoppingDetails_large_ico4.png",
+                "pink/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011799",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011800",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011801",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000011802",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011899",
+            "productTitle": "Huawei华为畅享7S-18",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-18",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1899,
+            "productMonthlySales": 1899,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011899",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011900",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011901",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011900",
+            "productTitle": "Huawei华为畅享7S-18",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-18",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1899,
+            "productMonthlySales": 1899,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011899",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011900",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011901",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011901",
+            "productTitle": "Huawei华为畅享7S-18",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-18",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 1899,
+            "productMonthlySales": 1899,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011899",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000011900",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000011901",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000011999",
+            "productTitle": "Huawei华为畅享7S-19",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-19",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 1999,
+            "productMonthlySales": 1999,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011999",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012000",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012000",
+            "productTitle": "Huawei华为畅享7S-19",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-19",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 1999,
+            "productMonthlySales": 1999,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000011999",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012000",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012099",
+            "productTitle": "Huawei华为畅享7S-20",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-20",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2099,
+            "productMonthlySales": 2099,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012099",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012199",
+            "productTitle": "Huawei华为畅享7S-21",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-21",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2199,
+            "productMonthlySales": 2199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000012202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012200",
+            "productTitle": "Huawei华为畅享7S-21",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-21",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 2199,
+            "productMonthlySales": 2199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000012202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012201",
+            "productTitle": "Huawei华为畅享7S-21",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-21",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 2199,
+            "productMonthlySales": 2199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000012202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012202",
+            "productTitle": "Huawei华为畅享7S-21",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-21",
+            "productBallImg": "/static/images/pink_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_pink_small_ico_63x80.png",
+            "productPrice": 2199,
+            "productMonthlySales": 2199,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "pink_default_ico.png",
+                "productShowName": "粉色"
+            },
+            "productLittleImg": [
+                "pink/shoppingDetails_small_ico1.png",
+                "pink/shoppingDetails_small_ico2.png",
+                "pink/shoppingDetails_small_ico3.png",
+                "pink/shoppingDetails_small_ico4.png",
+                "pink/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "pink/shoppingDetails_large_ico1.png",
+                "pink/shoppingDetails_large_ico2.png",
+                "pink/shoppingDetails_large_ico3.png",
+                "pink/shoppingDetails_large_ico4.png",
+                "pink/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012199",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012200",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012201",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                },
+                {
+                    "productSkuId": "10000012202",
+                    "productImage": "pink_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "粉色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012299",
+            "productTitle": "Huawei华为畅享7S-22",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-22",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2299,
+            "productMonthlySales": 2299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012300",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012301",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012300",
+            "productTitle": "Huawei华为畅享7S-22",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-22",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 2299,
+            "productMonthlySales": 2299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012300",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012301",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012301",
+            "productTitle": "Huawei华为畅享7S-22",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-22",
+            "productBallImg": "/static/images/golden_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_golden_small_ico_63x80.png",
+            "productPrice": 2299,
+            "productMonthlySales": 2299,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "golden_default_ico.png",
+                "productShowName": "金色"
+            },
+            "productLittleImg": [
+                "golden/shoppingDetails_small_ico1.png",
+                "golden/shoppingDetails_small_ico2.png",
+                "golden/shoppingDetails_small_ico3.png",
+                "golden/shoppingDetails_small_ico4.png",
+                "golden/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "golden/shoppingDetails_large_ico1.png",
+                "golden/shoppingDetails_large_ico2.png",
+                "golden/shoppingDetails_large_ico3.png",
+                "golden/shoppingDetails_large_ico4.png",
+                "golden/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012299",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012300",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                },
+                {
+                    "productSkuId": "10000012301",
+                    "productImage": "golden_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "金色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012399",
+            "productTitle": "Huawei华为畅享7S-23",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-23",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2399,
+            "productMonthlySales": 2399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012400",
+            "productTitle": "Huawei华为畅享7S-23",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-23",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 2399,
+            "productMonthlySales": 2399,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012399",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012400",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012499",
+            "productTitle": "Huawei华为畅享7S-24",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-24",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2499,
+            "productMonthlySales": 2499,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012499",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012599",
+            "productTitle": "Huawei华为畅享7S-25",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-25",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2599,
+            "productMonthlySales": 2599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012600",
+            "productTitle": "Huawei华为畅享7S-25",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-25",
+            "productBallImg": "/static/images/black_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_black_small_ico_63x80.png",
+            "productPrice": 2599,
+            "productMonthlySales": 2599,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "black_default_ico.png",
+                "productShowName": "黑色"
+            },
+            "productLittleImg": [
+                "black/shoppingDetails_small_ico1.png",
+                "black/shoppingDetails_small_ico2.png",
+                "black/shoppingDetails_small_ico3.png",
+                "black/shoppingDetails_small_ico4.png",
+                "black/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "black/shoppingDetails_large_ico1.png",
+                "black/shoppingDetails_large_ico2.png",
+                "black/shoppingDetails_large_ico3.png",
+                "black/shoppingDetails_large_ico4.png",
+                "black/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012599",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                },
+                {
+                    "productSkuId": "10000012600",
+                    "productImage": "black_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "黑色"
+                }
+            ]
+        },
+        {
+            "productSkuId": "10000012699",
+            "productTitle": "Huawei华为畅享7S-26",
+            "productSubTitle": "全面屏官方旗舰店手机7Plus 畅想7S-26",
+            "productBallImg": "/static/images/blue_ball_ico.png",
+            "productBigImg": "shoppingDetails_large_ico.png",
+            "productSmallImg": "mobile_showPic_blue_small_ico_63x80.png",
+            "productPrice": 2699,
+            "productMonthlySales": 2699,
+            "productLimitNum": 99,
+            "productSpecJson": {
+                "productImage": "blue_default_ico.png",
+                "productShowName": "蓝色"
+            },
+            "productLittleImg": [
+                "blue/shoppingDetails_small_ico1.png",
+                "blue/shoppingDetails_small_ico2.png",
+                "blue/shoppingDetails_small_ico3.png",
+                "blue/shoppingDetails_small_ico4.png",
+                "blue/shoppingDetails_small_ico5.png"
+            ],
+            "productLargeImg": [
+                "blue/shoppingDetails_large_ico1.png",
+                "blue/shoppingDetails_large_ico2.png",
+                "blue/shoppingDetails_large_ico3.png",
+                "blue/shoppingDetails_large_ico4.png",
+                "blue/shoppingDetails_large_ico5.png"
+            ],
+            "productSkuColorList": [
+                {
+                    "productSkuId": "10000012699",
+                    "productImage": "blue_default_ico_26x26.png",
+                    "productLimitNum": 99,
+                    "productShowName": "蓝色"
+                }
+            ]
+        }
+    ]
+}

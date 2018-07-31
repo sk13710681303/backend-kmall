@@ -1,0 +1,30 @@
+1.build和config目录就是webpack配置相关
+2.node_modules文件夹是：我们通过cnpm install安装的依赖代码库
+3.src文件夹：我们存放项目的源码
+4.static目录是用来存放第三方静态资源的，里面有一个.gitkeep文件，这个文件的作用是：当这个文件为空时，
+  也可以把这个目录提交到git代码仓库里
+5..babelrc这个目录是babel的一些配置，因为我们的代码都是ES6，而大部分浏览器是不能直接支持ES6语法的，
+  所以通常我们的做法是把ES6通过babel编译成ES5，而.babelrc这个文件就是babel的一些配置
+  其中presets表示预设，它表示babel转换预先需要安装的一些插件，那么stage-表示ECMA的草案，草案一共
+  分为四个阶段(0-3),其中0表示stage0-3,那么2表示stage2-3,那么数字越小，它包括的东西越多，plugins
+  表示插件配置，比如transform-runtime，comments表示转换后的代码是否要生成注释
+6..editorconfig：编辑器的配置，charset表示一个编码，indent_style表示缩进风格，indent_size表示
+  缩进大小(vuejs代码缩进风格就是2个)，end_of_line表示一个换行符的风格end_of_line=lf表示linux和
+  mac的换行符风格，insert_final_newline = true就表示当前创建一个文件的时候，它默认会在文件末尾给
+  你插入一个新行，trim_trailing_whitespace = true表示会自动移除行尾多余的空格
+7..eslintignore：表示忽略语法检查的目录文件
+8..eslintrc.js：表示eslint的配置文件，extends：'standard'表示继承一种标准的规则，rules里面具体
+  的配置如：'arrow-parens': 0表示一个箭头函数前面可以没有括号，只要是我们觉得有一些具体规则我们不想
+  要的，那么就可以把相关的选项配置成0，那么就不会进行语法检查。'no-debugger': process.env.NODE_ENV
+  === 'production' ? 2 : 0就是不允许在代码中出现debugger选项，因为我们把debugger弄上线上环境
+  是一个很危险的事情，所以我们这句代码就做了一个判断，如果当前环境是开发环境就可以debugger，如果是生产
+  环境，那么就不可以debugger
+9..gitignore：表示git忽略到某些目录和文件
+10.inde.html是我们总页面的入口文件
+11.package.json是我们项目的工程文件，用来描述一些项目的具体信息，如name、version、script(配置可)
+   运行的脚本命令)，dependencies表示我们生产环境中的一些依赖，devDependencies表示我们开发环境中
+   的一些依赖
+12.README.md就是一些项目的描述文件，如告诉我们如何启动一个项目
+13./* eslint-disable no-new */
+14.默认Arguments：--no-cache --update $FileName$:$FileNameWithoutExtension$.css
+15.默认Output paths to refresh：$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map
